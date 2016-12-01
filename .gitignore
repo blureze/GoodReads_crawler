@@ -1,2 +1,3 @@
 config/secret.json
 .DS_Store
+*.pyc
